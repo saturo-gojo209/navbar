@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(42, 117, 92);
+
+}
+.navbar-brand{
+    color: blueviolet !important;
+}
+.nav-link{
+text-decoration: none;
+font-size: 14px;
+font-weight: 500;
+color: black !important;
+}
+.nav-link:hover{
+    border-bottom: 2px solid teal;
+}
